@@ -1,0 +1,96 @@
+{
+  "source": "FactSet",
+  "dataset": "sp500_earnings_season_update",
+  "year": 2026,
+  "month": 4,
+  "created_at": "2026-05-14T23:28:59",
+  "friday_count": 4,
+  "successful_count": 2,
+  "failed_count": 2,
+  "successful_urls": [
+    {
+      "input_date": "2026-04-17",
+      "target_friday": "2026-04-17",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-17-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-17-2026",
+      "status_code": 200,
+      "success": true,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:58"
+    },
+    {
+      "input_date": "2026-04-24",
+      "target_friday": "2026-04-24",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-24-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-24-2026",
+      "status_code": 200,
+      "success": true,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:58"
+    }
+  ],
+  "failed_urls": [
+    {
+      "input_date": "2026-04-03",
+      "target_friday": "2026-04-03",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-3-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-3-2026",
+      "status_code": 404,
+      "success": false,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:57"
+    },
+    {
+      "input_date": "2026-04-10",
+      "target_friday": "2026-04-10",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-10-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-10-2026",
+      "status_code": 404,
+      "success": false,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:57"
+    }
+  ],
+  "all_attempts": [
+    {
+      "input_date": "2026-04-03",
+      "target_friday": "2026-04-03",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-3-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-3-2026",
+      "status_code": 404,
+      "success": false,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:57"
+    },
+    {
+      "input_date": "2026-04-10",
+      "target_friday": "2026-04-10",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-10-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-10-2026",
+      "status_code": 404,
+      "success": false,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:57"
+    },
+    {
+      "input_date": "2026-04-17",
+      "target_friday": "2026-04-17",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-17-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-17-2026",
+      "status_code": 200,
+      "success": true,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:58"
+    },
+    {
+      "input_date": "2026-04-24",
+      "target_friday": "2026-04-24",
+      "url": "https://insight.factset.com/sp-500-earnings-season-update-april-24-2026",
+      "final_url": "https://insight.factset.com/sp-500-earnings-season-update-april-24-2026",
+      "status_code": 200,
+      "success": true,
+      "error": null,
+      "checked_at": "2026-05-14T23:28:58"
+    }
+  ]
+}
